@@ -1,0 +1,1 @@
+Rename your file config path with project name into path development.ini `/etc/project-name/main.development.ini`

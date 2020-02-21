@@ -1,0 +1,1 @@
+This layer, will store any Object’s Struct and its method. Example : Article, Student, Book.
